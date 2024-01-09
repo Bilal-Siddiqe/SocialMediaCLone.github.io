@@ -1,0 +1,25 @@
+.rightSide {
+    height: 300px;
+    width: 200px;
+    border: 2px solid black;
+    position: fixed;
+    top: 20%;
+    left: 5%;
+}
+
+.midSection {
+    width: 750px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+    /* border: 2px solid black; */
+}
+
+.leftSide {
+    height: 300px;
+    width: 200px;
+    border: 2px solid black;
+    position: fixed;
+    top: 20%;
+    right: 5%;
+}
